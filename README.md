@@ -13,6 +13,7 @@
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavofreitas22&" alt="gustavofreitas22" /></p>
   
   ##
  
